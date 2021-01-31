@@ -6,10 +6,10 @@ that you want to do in the day.
 
 ![home_page](https://user-images.githubusercontent.com/60694717/106382672-28eabe00-63e7-11eb-826f-fbfa6e2363e0.png)
 
-### FEATURES:
-<ul>
-<li>Add Tasks</li>
-<img src= "![tasks](https://user-images.githubusercontent.com/60694717/106382763-b9c19980-63e7-11eb-8ddf-1219042eee3d.png)" >
+## FEATURES:
+
+### Add Tasks
+![tasks](https://user-images.githubusercontent.com/60694717/106382763-b9c19980-63e7-11eb-8ddf-1219042eee3d.png)
 
 <li>Update Tasks</li>
 ![update_box](https://user-images.githubusercontent.com/60694717/106382780-df4ea300-63e7-11eb-951b-976adc57ab8d.png)
