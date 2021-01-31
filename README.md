@@ -16,11 +16,10 @@ that you want to do in the day.
 <br>
 ![updated](https://user-images.githubusercontent.com/60694717/106382794-f5f4fa00-63e7-11eb-9375-98fb2a90a861.png)
 
-<li>Mark Completed
-![completed](https://user-images.githubusercontent.com/60694717/106382807-060cd980-63e8-11eb-999d-1bb10b342b96.png)
-</li>
-<li>Delete Tasks</li>
+### 3) Mark Completed
+![completed](https://user-images.githubusercontent.com/60694717/106382807-060cd980-63e8-11eb-999d-1bb10b342b96.png4
+ 
+### 4) Delete Tasks
 ![warning](https://user-images.githubusercontent.com/60694717/106382815-13c25f00-63e8-11eb-8b07-27f023c4bf5e.png)
-![deleted](https://user-images.githubusercontent.com/60694717/106382829-2046b780-63e8-11eb-9ab2-f489b1b81aba.png)
+![deleted](https://user-images.githubusercontent.com/60694717/106382829-2046b780-63e8-11eb-9ab2-f489b1b81ab
 
-</ul>
