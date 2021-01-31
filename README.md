@@ -1,6 +1,6 @@
 # DJANGO_WEB_APP
 
-This is a Python Django based To-Do-List web application.
+This is a Python Django based To-Do-List web application.<br>
 Using this web app you can create tasks
 that you want to do in the day.
 
